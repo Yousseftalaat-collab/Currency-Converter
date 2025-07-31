@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPnsRww3oQWmvHG/giphy.gif" width="300" alt="Money gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdkamVvaWhiODg2dW1oajdjZnJwaHNoNHBwazU0MWd5ZTVsZGMzbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Weather GIF"/>
 </p>
 
 ---
